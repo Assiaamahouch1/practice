@@ -1,0 +1,17 @@
+/home/runner/work/practice/practice/src/main/java/com/fixify/authservice/model/User.java
+/home/runner/work/practice/practice/src/main/java/com/fixify/authservice/repository/UserRepository.java
+/home/runner/work/practice/practice/src/main/java/com/fixify/authservice/model/Client.java
+/home/runner/work/practice/practice/src/main/java/com/fixify/authservice/model/Livreur.java
+/home/runner/work/practice/practice/src/main/java/com/fixify/authservice/security/UserDetailsServiceImpl.java
+/home/runner/work/practice/practice/src/main/java/com/fixify/authservice/security/JwtAuthenticationFilter.java
+/home/runner/work/practice/practice/src/main/java/com/fixify/authservice/util/JwtUtils.java
+/home/runner/work/practice/practice/src/main/java/com/fixify/authservice/model/enums/ReparateurStatus.java
+/home/runner/work/practice/practice/src/main/java/com/fixify/authservice/repository/RefreshTokenRepository.java
+/home/runner/work/practice/practice/src/main/java/com/fixify/authservice/security/SecurityConfig.java
+/home/runner/work/practice/practice/src/main/java/com/fixify/authservice/model/Admin.java
+/home/runner/work/practice/practice/src/main/java/com/fixify/authservice/model/Reparateur.java
+/home/runner/work/practice/practice/src/main/java/com/fixify/authservice/model/enums/UserRole.java
+/home/runner/work/practice/practice/src/main/java/com/fixify/authservice/model/enums/UserStatus.java
+/home/runner/work/practice/practice/src/main/java/com/fixify/authservice/AuthServiceApplication.java
+/home/runner/work/practice/practice/src/main/java/com/fixify/authservice/model/RefreshToken.java
+/home/runner/work/practice/practice/src/main/java/com/fixify/authservice/security/JwtAuthenticationEntryPoint.java
